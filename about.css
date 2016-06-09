@@ -83,17 +83,37 @@ body {
 	margin-left: 5%;
 	height: 400px;
 	overflow: hidden;
-	text-align: center;
 }
+
 
 #name {
 	font-size: 50px;
+	line-height: 50px;
+	color: #494949;
+	margin: 5% 0 1% 15%;
+}
+
+#school {
+	margin-top: 5px;
+	margin-bottom: 15px;
+	font-size: 25px;
+	line-height: 25px;
 	color: #696969;
+}
+
+#hr1 {
+	width: 80%;
+}
+
+#about {
+	width: 80%;
 }
 
 
 
-
+.moveRight {
+	margin-left: 15%;
+}
 
 .size {
 	height: 200px;
