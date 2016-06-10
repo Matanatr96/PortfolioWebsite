@@ -126,6 +126,19 @@ body {
 	margin-top: 5px;
 }
 
+#coursework {
+	height:400px;
+}
+
+#cw1, #cw2 {
+	list-style: none;
+}
+
+#work {
+	width: 90%;
+	margin-left: 5%;
+}
+
 
 
 .moveRight {
