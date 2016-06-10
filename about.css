@@ -81,8 +81,8 @@ body {
 #introText {
 	width: 90%;
 	margin-left: 5%;
-	height: 400px;
 	overflow: hidden;
+	margin-bottom: 5%;
 }
 
 
@@ -102,11 +102,28 @@ body {
 }
 
 #hr1 {
+	width: 70%;
+}
+#facts {
 	width: 80%;
+	margin-top: 5px;
 }
 
-#about {
-	width: 80%;
+#education {
+	width: 90%;
+	margin-left: 5%;
+}
+
+#ed1 {
+	font-size: 35px;
+	line-height: 35px;
+	color: #CCCCCC;
+}
+
+#ed2 {
+	font-size: 18px;
+	line-height: 18px;
+	margin-top: 5px;
 }
 
 
@@ -115,14 +132,12 @@ body {
 	margin-left: 15%;
 }
 
-.size {
-	height: 200px;
-	width: 300px;
-	background-color: #7AA4DE;
+.marbot {
+	margin-bottom: 0px;
 }
 
-.text {
-	color: #333333;
+.martop {
+	margin-top: 0px;
 }
 
 .other:hover {
