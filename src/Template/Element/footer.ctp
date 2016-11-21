@@ -1,7 +1,5 @@
-<footer>
-    <div class="row">
-        <div class="col-lg-12">
-            <p>Copyright &copy; thelastmattapalli.com</p>
-        </div>
+<footer class="footer">
+    <div class="container">
+        <p>Copyright &copy; thelastmattapalli.com</p>
     </div>
 </footer>
