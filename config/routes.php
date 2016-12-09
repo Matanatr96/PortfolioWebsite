@@ -52,6 +52,7 @@ Router::scope('/', function (RouteBuilder $routes) {
     $routes->connect('/', ['controller' => 'Home', 'action' => 'index']);
     $routes->connect('/pages', ['controller' => 'Pages', 'action' => 'display']);
     $routes->connect('matanatr/submit', ['controller' => 'Home', 'action' => 'submit']);
+    $routes->connect('matanatr/aboutme', ['controller' => 'Home', 'action' => 'aboutMe']);
 
     /**
      * Connect catchall routes for all controllers.

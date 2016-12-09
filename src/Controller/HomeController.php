@@ -22,10 +22,10 @@ class HomeController extends AppController  {
         $this->set('name', 'name');
     }
 
-    public function submit() {
-        $requestData = $this->request->data();
-        $id = $this->saveLog($requestData['name'], $requestData['age']);
+    public function aboutMe() {
+    }
 
+    public function submit() {
     }
 
     public function printr($printout) {
