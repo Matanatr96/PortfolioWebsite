@@ -105,31 +105,21 @@
     padding:0;
 }
 
-#introText {
-    width: 90%;
-    margin-left: 5%;
-    overflow: hidden;
-    margin-bottom: 5%;
-}
-
 
 #name {
     font-size: 50px;
     line-height: 50px;
     color: #494949;
-    margin: 5% 0 1% 15%;
 }
 
 #school {
-    margin-top: 5px;
-    margin-bottom: 15px;
     font-size: 25px;
     line-height: 25px;
     color: #696969;
 }
 
 #hr1 {
-    width: 70%;
+    width: 90%;
 }
 #facts {
     width: 80%;
